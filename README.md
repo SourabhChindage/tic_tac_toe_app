@@ -1,16 +1,41 @@
-# tic_tac_toe_game_app
+# 🎮 Tic Tac Toe App (Flutter)
 
-A new Flutter project.
+A simple yet polished **Tic Tac Toe Game** built with Flutter for **iOS & Android**.  
+This app includes smooth UI, animations, and a splash screen to give the feel of a real game app.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Two-player game (on the same device)  
+- Clean **3×3 grid UI** with smooth interactions  
+- **Player One** and **Player Two** indicators with highlights on turns  
+- Detects **win/draw conditions** instantly  
+- **Restart button** to reset the board anytime  
+- Simple **animations & highlights** on win  
+- A stylish **splash screen** for a real game experience  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Demo
+🎥 [Demo Recording](#) *https://drive.google.com/file/d/1ZN6BN_g3nTu1OZloKnTZ8fVDqz0F6_XQ/view?usp=sharing*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio / VS Code with Flutter extensions
+- A connected emulator or physical device
+
+Project Flow
+lib/
+ ├── main.dart          # Entry point
+ ├── splash_screen.dart # Splash Screen UI
+ └── game_screen.dart   # Game Board UI + Logic
+
+ 🙌 Author
+
+👤 Sourabh Chindage
+
+GitHub: @SourabhChindage
